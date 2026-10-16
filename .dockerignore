@@ -1,0 +1,11 @@
+*.csv
+target/
+.git/
+.github/
+.idea/
+.vscode/
+*.iml
+*.md
+docker-compose.yml
+Dockerfile
+.dockerignore
